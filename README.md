@@ -128,3 +128,10 @@ There is a mix of buyer preferences, suggesting demand for both furnished and un
 Buyers consider the location along with amenities like parking and furnishing when making purchasing decisions.
 
 
+## Future Avenues for Improvement :-
+1. Performance Optimization – Implement chunk-based CSV processing and async handling for large datasets.
+2. Advanced Visualization – Use interactive libraries like Plotly for better insights.
+3. Enhanced LLM Integration – Fine-tune prompts and support multiple AI models.
+4. Improved User Experience – Enable drag-and-drop CSV upload and downloadable reports.
+5. Robust Error Handling – Add detailed error messages and retry mechanisms for API failures.
+
